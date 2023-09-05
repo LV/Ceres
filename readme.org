@@ -1,0 +1,4 @@
+#+title: Ceres
+#+author: Luis Victoria
+
+Ceres is a hobbyist project towards making an algorithmic trading system
